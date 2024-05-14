@@ -15,8 +15,7 @@ Here's a little about me, served with a sprinkle of humor:
 - 💡 Always curious, constantly learning, and occasionally making puns about my datasets.
 
 ## My Journey
-From collaborating with global teams at Kellogg's to refine data pipelines, to applying NLP at HDFC Bank for better credit assessments, I've tackled diverse challenges head-on.
-At LTIMindtree, I ensured smoother workflows for the Ministry of Corporate Affairs, boosting stakeholder satisfaction and system efficiency.
+From collaborating with global teams at Kellogg's to refine data pipelines, to applying NLP at HDFC Bank for better credit assessments,                                       I've tackled diverse challenges head-on. At LTIMindtree, I ensured smoother workflows for the Ministry of Corporate Affairs, boosting stakeholder satisfaction and system efficiency.
 
 ## What I Bring to the Table
 - **Data Magic**: Skilled in transforming raw data into actionable insights.
