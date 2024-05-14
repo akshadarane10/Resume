@@ -33,5 +33,5 @@ I'm actively seeking opportunities to apply and expand my skills. If you're look
 
 Remember, while data is my superpower, humor is my secret weapon. Thanks for stopping by!
 
-Best,
+Best,                                                                                                                                                                   
 Akshada
